@@ -26,9 +26,7 @@ This project focuses on building a heart disease prediction pipeline using KNIME
 
 ## Repository Structure
 * Data: UCI Heart Disease dataset
-* Workflow: Final knwf file
-* Presentation: Final slide deck
-* Report: Evaluation and findings report
+* Workflow: Final knwf file, along with previous editions of file
 
 ## Key Findings
 This project showed that achieving ethical healthcare models requires intentional trade-offs. We prioritized recall to ensure no patient is left undiagnosed even if it means managing a higher rate of false positives. We learned that as analysts we must actively hunt for disparities in the data before they become part of the model.
